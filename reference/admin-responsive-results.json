@@ -1,0 +1,1370 @@
+[
+  {
+    "route": "/admin",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 320,
+    "client": 320,
+    "scroll": 320,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 355.08751678466797,
+        "width": 97.57500457763672
+      },
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 458.68749237060547,
+        "width": 99.5999984741211
+      },
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 517.375,
+        "width": 54.6875
+      }
+    ],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 320,
+    "client": 305,
+    "scroll": 305,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 458.68749237060547,
+        "width": 99.5999984741211
+      },
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 517.375,
+        "width": 54.6875
+      }
+    ],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 375,
+    "client": 360,
+    "scroll": 360,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 430,
+    "client": 430,
+    "scroll": 430,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 430,
+    "client": 430,
+    "scroll": 430,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 458.68749237060547,
+        "width": 99.5999984741211
+      },
+      {
+        "cls": "",
+        "tag": "BUTTON",
+        "right": 517.375,
+        "width": 54.6875
+      }
+    ],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 430,
+    "client": 415,
+    "scroll": 415,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 768,
+    "client": 768,
+    "scroll": 768,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 768,
+    "client": 768,
+    "scroll": 768,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 768,
+    "client": 768,
+    "scroll": 768,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 768,
+    "client": 768,
+    "scroll": 768,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 1024,
+    "client": 1024,
+    "scroll": 1024,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 1024,
+    "client": 1024,
+    "scroll": 1024,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 1024,
+    "client": 1024,
+    "scroll": 1024,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 1024,
+    "client": 1024,
+    "scroll": 1024,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 1024,
+    "client": 1009,
+    "scroll": 1009,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 1440,
+    "client": 1440,
+    "scroll": 1440,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 1440,
+    "client": 1440,
+    "scroll": 1440,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 1440,
+    "client": 1440,
+    "scroll": 1440,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 1440,
+    "client": 1440,
+    "scroll": 1440,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 1440,
+    "client": 1440,
+    "scroll": 1440,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 1440,
+    "client": 1425,
+    "scroll": 1425,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "elements": [],
+    "loaded": true,
+    "pass": true
+  }
+]

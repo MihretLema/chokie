@@ -1,0 +1,236 @@
+[
+  {
+    "route": "/admin",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/homepage",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/about",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/services",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/solutions",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/training",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/partners",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/clients",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/testimonials",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/pages",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/inquiries",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/consultations",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/registrations",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/support",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/media",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/seo",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/users",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/notifications",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/activity",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/settings",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/admin/profile",
+    "status": 404,
+    "expected": 404,
+    "pass": true
+  },
+  {
+    "route": "/",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/about",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/solutions",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/training",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/partners",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/clients",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/contact",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/support",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/it-consulting",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/cybersecurity",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/data-center-networking",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/business-automation",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/software-licensing",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/technology-supply",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/surveillance",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/voip-pbx-sip",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  },
+  {
+    "route": "/services/maintenance-support",
+    "status": 200,
+    "expected": 200,
+    "pass": true
+  }
+]

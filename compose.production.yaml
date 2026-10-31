@@ -1,0 +1,7 @@
+services:
+  postgres:
+    ports: !reset []
+  minio:
+    ports: !reset []
+  mailpit:
+    ports: !reset []

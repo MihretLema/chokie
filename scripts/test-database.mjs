@@ -1,0 +1,4 @@
+import 'dotenv/config';
+import {spawnSync} from 'node:child_process';
+export function isolatedTestUrl(){const raw=process.env.TEST_DATABASE_URL;if(!raw)throw new Error('TEST_DATABASE_URL is required.');const url=new URL(raw);if(!['localhost','127.0.0.1'].includes(url.hostname)||!/^\/chokie_test(?:_[a-z0-9]+)?$/.test(url.pathname)||raw===process.env.DATABASE_URL)throw new Error('Refusing to test: use a separate loopback-only database named chokie_test.');return raw;}
+if(process.argv[1]?.replaceAll('\\','/').endsWith('/scripts/test-database.mjs')){const url=isolatedTestUrl();const result=spawnSync(process.execPath,['node_modules/prisma/build/index.js','migrate','deploy'],{stdio:'inherit',windowsHide:true,env:{...process.env,DATABASE_URL:url,MIGRATION_DATABASE_URL:url}});process.exitCode=result.status??1;}
